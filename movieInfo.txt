@@ -1,0 +1,250 @@
+The Shawshank Redemption ~ 1994 ~ R ~ 9.3 ~ Drama ~ 
+The Godfather ~ 1972 ~ R ~ 9.2 ~ Crime ~ Drama ~
+The Dark Knight ~ 2008 ~ PG-13 ~ 9.0 ~ Action ~ Crime ~ Drama ~
+The Godfather: Part II ~ 1974 ~ R ~ 9.0 ~ Crime ~ Drama ~
+12 Angry Men ~ 1957 ~ Approved ~ 9.0 ~ Crime ~ Drama ~
+Schindler's List ~ 1993 ~ R ~ 9.0 ~ Biography ~ Drama ~ History ~
+The Lord of the Rings: The Return of the King ~ 2003 ~ PG-13 ~ 9.0 ~ Action ~ Adventure ~ Drama ~
+Pulp Fiction ~ 1994 ~ R ~ 8.9 ~ Crime ~ Drama ~
+The Lord of the Rings: The Fellowship of the Ring ~ 2001 ~ PG-13 ~ 8.8 ~ Action ~ Adventure ~ Drama ~
+The Good, the Bad and the Ugly ~ 1966 ~ R ~ 8.8 ~ Adventure ~ Western ~
+Forrest Gump ~ 1994 ~ PG-13 ~ 8.8 ~ Drama ~ Romance ~
+Fight Club ~ 1999 ~ R ~ 8.8 ~ Drama ~
+Inception ~ 2010 ~ PG-13 ~ 8.8 ~ Action ~ Adventure ~ Sci-Fi ~
+The Lord of the Rings: The Two Towers ~ 2002 ~ PG-13 ~ 8.8 ~ Action ~ Adventure ~ Drama ~
+Star Wars: Episode V - The Empire Strikes Back ~ 1980 ~ PG ~ 8.7 ~ Action ~ Adventure ~ Fantasy ~
+The Matrix ~ 1999 ~ R ~ 8.7 ~ Action ~ Sci-Fi ~
+Goodfellas ~ 1990 ~ R ~ 8.7 ~ Biography ~ Crime ~ Drama ~
+One Flew Over the Cuckoo's Nest ~ 1975 ~ R ~ 8.7 ~ Drama ~
+Se7en ~ 1995 ~ R ~ 8.6 ~ Crime ~ Drama ~ Mystery ~
+Seven Samurai ~ 1954 ~ Not Rated ~ 8.6 ~ Action ~ Drama ~
+It's a Wonderful Life ~ 1946 ~ PG ~ 8.6 ~ Drama ~ Family ~ Fantasy ~
+The Silence of the Lambs ~ 1991 ~ R ~ 8.6 ~ Crime ~ Drama ~ Thriller ~
+City of God ~ 2002 ~ R ~ 8.6 ~ Crime ~ Drama ~
+Saving Private Ryan ~ 1998 ~ R ~ 8.6 ~ Drama ~ War ~
+Life Is Beautiful ~ 1997 ~ PG-13 ~ 8.6 ~ Comedy ~ Drama ~ Romance ~
+The Green Mile ~ 1999 ~ R ~ 8.6 ~ Crime ~ Drama ~ Fantasy ~
+Star Wars ~ 1977 ~ PG ~ 8.6 ~ Action ~ Adventure ~ Fantasy ~
+Interstellar ~ 2014 ~ PG-13 ~ 8.6 ~ Adventure ~ Drama ~ Sci-Fi ~
+Terminator 2: Judgment Day ~ 1991 ~ R ~ 8.6 ~ Action ~ Sci-Fi ~
+Back to the Future ~ 1985 ~ PG ~ 8.5 ~ Adventure ~ Comedy ~ Sci-Fi ~
+Spirited Away ~ 2001 ~ PG ~ 8.6 ~ Animation ~ Adventure ~ Family ~
+Psycho ~ 1960 ~ R ~ 8.5 ~ Horror ~ Mystery ~ Thriller ~
+The Pianist ~ 2002 ~ R ~ 8.5 ~ Biography ~ Drama ~ Music ~
+Léon: The Professional ~ 1994 ~ R ~ 8.5 ~ Action ~ Crime ~ Drama ~
+Parasite ~ 2019 ~ R ~ 8.5 ~ Comedy ~ Drama ~ Horror ~
+The Lion King ~ 1994 ~ G ~ 8.5 ~ Animation ~ Adventure ~ Drama ~
+American History X ~ 1998 ~ R ~ 8.5 ~ Drama ~
+Gladiator ~ 2000 ~ R ~ 8.5 ~ Action ~ Adventure ~ Drama ~
+The Usual Suspects ~ 1995 ~ R ~ 8.5 ~ Crime ~ Drama ~ Mystery ~
+The Departed ~ 2006 ~ R ~ 8.5 ~ Crime ~ Drama ~ Thriller ~
+The Prestige ~ 2006 ~ PG-13 ~ 8.5 ~ Drama ~ Mystery ~ Thriller ~
+Casablanca ~ 1942 ~ PG ~ 8.5 ~ Drama ~ Romance ~ War ~
+Whiplash ~ 2014 ~ R ~ 8.5 ~ Drama ~ Music ~
+The Intouchables ~ 2011 ~ R ~ 8.5 ~ Biography ~ Comedy ~ Drama ~
+Modern Times ~ 1936 ~ G ~ 8.5 ~ Comedy ~ Drama ~ Romance ~
+Once Upon a Time in the West ~ 1968 ~ PG-13 ~ 8.5 ~ Western ~
+Hara-Kiri ~ 1962 ~ Not Rated ~ 8.6 ~ Action ~ Drama ~ Mystery
+Grave of the Fireflies ~ 1988 ~ Not Rated ~ 8.5 ~ Animation ~ Drama ~ War ~
+Rear Window ~ 1954 ~ PG ~ 8.5 ~ Mystery ~ Thriller ~
+Alien ~ 1979 ~ R ~ 8.5 ~ Horror ~ Sci-Fi ~
+City Lights ~ 1931 ~ G ~ 8.5 ~ Comedy ~ Drama ~ Romance
+Cinema Paradiso ~ 1988 ~ PG ~ 8.5 ~ Drama ~ Romance ~
+Memento ~ 2000 ~ R ~ 8.5 ~ Mystery ~ Thriller ~
+Apocalypse Now ~ 1979 ~ R ~ 8.5 ~ Drama ~ Mystery ~ War ~
+Indiana Jones and the Raiders of the Lost Ark ~ 1981 ~ PG ~ 8.4 ~ Action ~ Adventure ~
+Django Unchained ~ 2012 ~ R ~ 8.4 ~ Drama ~ Western ~
+WALL·E ~ 2008 ~ G ~ 8.4 ~ Animation ~ Adventure ~ Family ~
+The Lives of Others ~ 2006 ~ R ~ 8.4 ~Drama ~ Mystery ~ Thriller
+Sunset Blvd. ~ 1950 ~ Passed ~ 8.4 ~ Drama ~
+Paths of Glory ~ 1957 ~ Approved ~ 8.4 ~ Drama ~ War ~
+The Shining ~ 1980 ~ R ~ 8.4 ~ Drama ~ Horror ~
+The Great Dictator ~ 1940 ~ G ~ 8.4 ~ Comedy ~ Drama ~ War ~
+Witness for the Prosecution ~ 1957 ~ Approved ~ 8.4 ~ Crime ~ Drama ~ Mystery ~
+Avengers: Infinity War ~ 2018 ~ PG-13 ~ 8.5 ~ Action ~ Adventure ~ Sci-Fi ~
+Aliens ~ 1986 ~ R ~ 8.4 ~ Action ~ Adventure ~ Sci-Fi ~
+American Beauty ~ 1999 ~ R ~ 8.4 ~ Drama ~
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb ~ 1964 ~ PG ~ 8.4 ~ Comedy ~ War ~
+The Dark Knight Rises ~ 2012 ~ PG-13 ~ 8.4 ~ Action ~ Crime ~ Drama ~
+Spider-Man: Into the Spider-Verse ~ 2018 ~ PG ~ 8.4 ~ Animation ~ Action ~ Adventure ~
+Joker ~ 2019 ~ R ~ 8.4 ~ Crime ~ Drama ~ Thriller ~
+Oldboy ~ 2003 ~ R ~ 8.4 ~ Action ~ Drama ~ Mystery ~
+Braveheart ~ 1995 ~ R ~ 8.4 ~ Biography ~ Drama ~ History ~
+Amadeus ~ 1984 ~ PG ~ 8.4 ~ Biography ~ Drama ~ Music ~
+Toy Story ~ 1995 ~ G ~ 8.3 ~ Animation ~ Adventure ~ Comedy ~
+The Boat ~ 1981 ~ 8.4/10247K ~ 1,9 ~ War ~
+Coco ~ 2017 ~ PG ~ 8.4 ~ Animation ~ Adventure ~ Comedy ~
+Inglourious Basterds ~ 2009 ~ R ~ 8.3 ~ Adventure ~ Drama ~ War ~
+Princess Mononoke ~ 1997 ~ PG-13 ~ 8.4 ~ Animation ~ Action ~ Adventure ~
+Once Upon a Time in America ~ 1984 ~ R ~ 8.3 ~ Crime ~ Drama ~
+Avengers: Endgame ~ 2019 ~ PG-13 ~ 8.4 ~ Action ~ Adventure ~ Drama ~
+Good Will Hunting ~ 1997 ~ R ~ 8.3 ~ Drama ~ Romance ~
+Requiem for a Dream ~ 2000 ~ Unrated ~ 8.3 ~ Drama ~
+Toy Story 3 ~ 2010 ~ G ~ 8.3 ~ Animation ~ Adventure ~ Comedy ~
+Singin' in the Rain ~ 1952 ~ G ~ 8.3 ~ Comedy ~ Musical ~ Romance ~
+Your Name. ~ 2016 ~ TV-PG ~ 8.4 ~ Animation ~ Drama ~ Fantasy ~
+Star Wars: Episode VI - Return of the Jedi ~ 1983 ~ PG ~ 8.3 ~ Action ~ Adventure ~ Fantasy ~
+3 Idiots ~ 2009 ~ PG-13 ~ 8.4 ~ Comedy ~ Drama ~
+2001: A Space Odyssey ~ 1968 ~ G ~ 8.3 ~ Adventure ~ Sci-Fi ~
+Spider-Man: No Way Home ~ 2021 ~ PG-13 ~ 8.4 ~ Action ~ Adventure ~ Fantasy ~
+Reservoir Dogs ~ 1992 ~ R ~ 8.3 ~ Crime ~ Drama ~ Thriller ~
+Eternal Sunshine of the Spotless Mind ~ 2004 ~ R ~ 8.3 ~ Drama ~ Romance ~ Sci-Fi ~
+High and Low ~ 1963 ~ Not Rated ~ 8.4 ~ Drama ~ Mystery ~
+Citizen Kane ~ 1941 ~ PG ~ 8.3 ~ Drama ~ Mystery ~
+Capernaum ~ 2018 ~ R ~ 8.4 ~ Drama ~
+Lawrence of Arabia ~ 1962 ~ Approved ~ 8.3 ~ Adventure ~ Biography ~ Drama ~
+M ~ 1931 ~ Passed ~ 8.3 ~ Crime ~ Mystery ~ Thriller ~
+North by Northwest ~ 1959 ~ Approved ~ 8.3 ~ Adventure ~ Mystery ~ Thriller ~
+The Hunt ~ 2012 ~ R ~ 8.3 ~ Drama ~
+Vertigo ~ 1958 ~ PG ~ 8.3 ~ Mystery ~ Romance ~ Thriller ~
+Amélie ~ 2001 ~ R ~ 8.3 ~ Comedy ~ Romance ~
+A Clockwork Orange ~ 1971 ~ X ~ 8.3 ~ Crime ~ Sci-Fi ~
+Come and See ~ 1985 ~ Not Rated ~ 8.4 ~ Drama ~ Thriller ~ War ~
+Full Metal Jacket ~ 1987 ~ R ~ 8.3 ~ Drama ~ War ~
+Double Indemnity ~ 1944 ~ Passed ~ 8.3 ~ Crime ~ Drama ~
+The Apartment ~ 1960 ~ Approved ~ 8.3 ~ Comedy ~ Drama ~ Romance ~
+Scarface ~ 1983 ~ R ~ 8.3 ~ Crime ~ Drama ~
+Taxi Driver ~ 1976 ~ R ~ 8.3 ~ Crime ~ Drama ~
+To Kill a Mockingbird ~ 1962 ~ Approved ~ 8.3 ~ Crime ~ Drama ~
+The Sting ~ 1973 ~ PG ~ 8.3 ~ Comedy ~ Crime ~ Drama ~
+Ikiru ~ 1952 ~ Not Rated ~ 8.3 ~ Drama
+Hamilton ~ 2020 ~ PG-13 ~ 8.4 ~ Biography ~ Drama ~ History ~
+L.A. Confidential ~ 1997 ~ R ~ 8.3 ~ Crime ~ Drama ~ Mystery ~
+Up ~ 2009 ~ PG ~ 8.3 ~ Animation ~ Adventure ~ Comedy ~
+Heat ~ 1995 ~ R ~ 8.3 ~ Action ~ Crime ~ Drama ~
+Metropolis ~ 1927 ~ Not Rated ~ 8.3 ~ Drama ~ Sci-Fi ~
+Snatch ~ 2000 ~ R ~ 8.3 ~ Comedy ~ Crime ~
+A Separation ~ 2011 ~ PG-13 ~ 8.3 ~ Drama ~
+Die Hard ~ 1988 ~ R ~ 8.2 ~ Action ~ Thriller ~
+Indiana Jones and the Last Crusade ~ 1989 ~ PG-13 ~ 8.2 ~ Action ~ Adventure ~
+Incendies ~ 2010 ~ R ~ 8.3 ~ Drama ~ Mystery ~ War ~
+Bicycle Thieves ~ 1948 ~ Not Rated ~ 8.3 ~ Drama
+1917 ~ 2019 ~ R ~ 8.3 ~ Action ~ Drama ~ War ~
+Like Stars on Earth ~ 2007 ~ PG ~ 8.4 ~ Drama ~ Family ~
+Downfall ~ 2004 ~ R ~ 8.2 ~ Biography ~ Drama ~ History
+For a Few Dollars More ~ 1965 ~ R ~ 8.2 ~ Western ~
+Batman Begins ~ 2005 ~ PG-13 ~ 8.2 ~ Action ~ Crime ~ Drama ~
+Dangal ~ 2016 ~ Not Rated ~ 8.4 ~ Action ~ Biography ~ Drama ~
+The Kid ~ 1921 ~ Passed ~ 8.3 ~
+Some Like It Hot ~ 1959 ~ Passed ~ 8.2 ~ Comedy ~ Music ~ Romance ~
+The Father ~ 2020 ~ PG-13 ~ 8.3 ~ Drama ~ Mystery ~
+All About Eve ~ 1950 ~ Passed ~ 8.2 ~ Drama ~
+Green Book ~ 2018 ~ PG-13 ~ 8.2 ~ Biography ~ Comedy ~ Drama ~
+The Wolf of Wall Street ~ 2013 ~ R ~ 8.2 ~ Biography ~ Comedy ~ Crime ~
+Judgment at Nuremberg ~ 1961 ~ Approved ~ 8.3 ~ Drama ~ War ~
+Unforgiven ~ 1992 ~ R ~ 8.2 ~ Drama ~ Western ~
+Pan's Labyrinth ~ 2006 ~ R ~ 8.2 ~ Drama ~ Fantasy ~ War ~
+Casino ~ 1995 ~ R ~ 8.2 ~ Crime ~ Drama ~
+Ran ~ 1985 ~ R ~ 8.2 ~ Action ~ Drama ~ War ~
+Monty Python and the Holy Grail ~ 1975 ~ PG ~ 8.2 ~ Adventure ~ Comedy ~ Fantasy ~
+A Beautiful Mind ~ 2001 ~ PG-13 ~ 8.2 ~ Biography ~ Drama ~
+There Will Be Blood ~ 2007 ~ R ~ 8.2 ~ Drama ~
+The Sixth Sense ~ 1999 ~ PG-13 ~ 8.2 ~ Drama ~ Mystery ~ Thriller ~
+The Truman Show ~ 1998 ~ PG ~ 8.2 ~ Comedy ~ Drama ~
+Yojimbo ~ 1961 ~ Not Rated ~ 8.2 ~ Drama ~ Thriller ~
+The Treasure of the Sierra Madre ~ 1948 ~ Passed ~ 8.2 ~ Adventure ~ Drama ~ Western ~
+Rashomon ~ 1950 ~ Not Rated ~ 8.2 ~ Crime ~ Drama ~ Mystery ~
+The Great Escape ~ 1963 ~ Approved ~ 8.2 ~ Adventure ~ Drama ~ History ~
+Shutter Island ~ 2010 ~ R ~ 8.2 ~ Mystery ~ Thriller ~
+Kill Bill: Vol. 1 ~ 2003 ~ R ~ 8.2 ~ Action ~ Crime ~ Drama ~
+Jurassic Park ~ 1993 ~ PG-13 ~ 8.2 ~ Action ~ Adventure ~ Sci-Fi ~
+No Country for Old Men ~ 2007 ~ R ~ 8.2 ~ Crime ~ Drama ~ Thriller ~
+The Elephant Man ~ 1980 ~ PG ~ 8.2 ~ Biography ~ Drama ~
+Raging Bull ~ 1980 ~ R ~ 8.2 ~ Biography ~ Drama ~ Sport ~
+Finding Nemo ~ 2003 ~ G ~ 8.2 ~ Animation ~ Adventure ~ Comedy ~
+Chinatown ~ 1974 ~ R ~ 8.2 ~ Drama ~ Mystery ~ Thriller ~
+Gone with the Wind ~ 1939 ~ Passed ~ 8.2 ~ Drama ~ History ~ Romance ~
+V for Vendetta ~ 2005 ~ R ~ 8.2 ~ Action ~ Drama ~ Sci-Fi ~
+Inside Out ~ 2015 ~ PG ~ 8.2 ~ Animation ~ Adventure ~ Comedy ~
+Lock, Stock and Two Smoking Barrels ~ 1998 ~ R ~ 8.2 ~ Action ~ Comedy ~ Crime ~
+The Thing ~ 1982 ~ R ~ 8.2 ~ Horror ~ Mystery ~ Sci-Fi ~
+Dial M for Murder ~ 1954 ~ PG ~ 8.2 ~ Crime ~ Thriller ~
+The Secret in Their Eyes ~ 2009 ~ R ~ 8.2 ~ Drama ~ Mystery ~ Romance ~
+The Bridge on the River Kwai ~ 1957 ~ PG ~ 8.2 ~ Adventure ~ Drama ~ War ~
+Howl's Moving Castle ~ 2004 ~ PG ~ 8.2 ~ Animation ~ Adventure ~ Family ~
+Trainspotting ~ 1996 ~ R ~ 8.1 ~ Drama ~
+Three Billboards Outside Ebbing, Missouri ~ 2017 ~ R ~ 8.1 ~ Comedy ~ Crime ~ Drama ~
+Gran Torino ~ 2008 ~ R ~ 8.1 ~ Drama ~
+Warrior ~ 2011 ~ PG-13 ~ 8.2 ~ Action ~ Drama ~ Sport ~
+Fargo ~ 1996 ~ R ~ 8.1 ~ Crime ~ Thriller ~
+My Neighbor Totoro ~ 1988 ~ G ~ 8.1 ~ Animation ~ Comedy ~ Family ~
+Prisoners ~ 2013 ~ R ~ 8.1 ~ Crime ~ Drama ~ Mystery ~
+Million Dollar Baby ~ 2004 ~ PG-13 ~ 8.1 ~ Drama ~ Sport ~
+The Gold Rush ~ 1925 ~ Passed ~ 8.2 ~ Comedy ~ Drama ~
+Blade Runner ~ 1982 ~ R ~ 8.1 ~ Action ~ Drama ~ Sci-Fi ~
+On the Waterfront ~ 1954 ~ Approved ~ 8.1 ~ Crime ~ Drama ~ Thriller ~
+Catch Me If You Can ~ 2002 ~ PG-13 ~ 8.1 ~ Biography ~ Crime ~ Drama ~
+The Third Man ~ 1949 ~ Approved ~ 8.1 ~ Mystery ~ Thriller ~
+Children of Heaven ~ 1997 ~ PG ~ 8.2 ~ Family ~ Sport ~
+The General ~ 1926 ~ Passed ~ 8.2 ~ Adventure ~ Comedy ~
+Ben-Hur ~ 1959 ~ G ~ 8.1 ~ Adventure ~ Drama ~ History ~
+12 Years a Slave ~ 2013 ~ R ~ 8.1 ~ Biography ~ Drama ~ History ~
+Wild Strawberries ~ 1957 ~ Not Rated ~ 8.1 ~
+Gone Girl ~ 2014 ~ R ~ 8.1 ~ Drama ~ Mystery ~ Thriller ~
+The Deer Hunter ~ 1978 ~ R ~ 8.1 ~ Drama ~ War ~
+Before Sunrise ~ 1995 ~ R ~ 8.1 ~ Drama ~ Romance ~
+In the Name of the Father ~ 1993 ~ R ~ 8.1 ~
+Harry Potter and the Deathly Hallows: Part 2 ~ 2011 ~ PG-13 ~ 8.1 ~ Adventure ~ Fantasy ~ Mystery ~
+Mr. Smith Goes to Washington ~ 1939 ~ Passed ~ 8.1 ~ Drama ~
+The Grand Budapest Hotel ~ 2014 ~ R ~ 8.1 ~ Adventure ~ Comedy ~ Crime ~
+Sherlock Jr. ~ 1924 ~ Passed ~ 8.2 ~ Comedy ~ Romance ~
+The Wages of Fear ~ 1953 ~ Not Rated ~ 8.2 ~ Drama ~ Thriller ~
+The Batman ~ 2022 ~ PG-13 ~ 8.2 ~ Action ~ Crime ~ Drama ~
+Room ~ 2015 ~ R ~ 8.1 ~ Drama ~ Thriller ~
+Barry Lyndon ~ 1975 ~ PG ~ 8.1 ~ Adventure ~ Drama ~ War ~
+Memories of Murder ~ 2003 ~ Not Rated ~ 8.1 ~ Crime ~ Drama ~ Mystery ~
+The Seventh Seal ~ 1957 ~ Not Rated ~ 8.1 ~
+Hacksaw Ridge ~ 2016 ~ R ~ 8.1 ~ Biography ~ Drama ~ History ~
+Wild Tales ~ 2014 ~ R ~ 8.1 ~ Comedy ~ Drama ~ Thriller ~
+Klaus ~ 2019 ~ PG ~ 8.1 ~ Animation ~ Adventure ~ Comedy ~
+The Big Lebowski ~ 1998 ~ R ~ 8.1 ~ Comedy ~ Crime ~
+How to Train Your Dragon ~ 2010 ~ PG ~ 8.1 ~ Animation ~ Action ~ Adventure ~
+Pather Panchali ~ 1955 ~ Not Rated ~ 8.3 ~
+Mad Max: Fury Road ~ 2015 ~ R ~ 8.1 ~ Action ~ Adventure ~ Sci-Fi ~
+Mary and Max ~ 2009 ~ Not Rated ~ 8.1 ~ Comedy ~ Drama ~
+The Passion of Joan of Arc ~ 1928 ~ Passed ~ 8.2 ~ Drama ~ History ~
+Jaws ~ 1975 ~ PG ~ 8.1 ~ Adventure ~ Thriller ~
+Monsters, Inc. ~ 2001 ~ G ~ 8.1 ~ Animation ~ Adventure ~ Comedy ~
+Hotel Rwanda ~ 2004 ~ PG-13 ~ 8.1 ~ Biography ~ Drama ~ History ~
+Tokyo Story ~ 1953 ~ Not Rated ~ 8.2 ~
+Dead Poets Society ~ 1989 ~ PG ~ 8.1 ~ Comedy ~ Drama ~
+Platoon ~ 1986 ~ R ~ 8.1 ~ Drama ~ War ~
+Rocky ~ 1976 ~ PG ~ 8.1 ~ Drama ~ Sport ~
+Ford v Ferrari ~ 2019 ~ PG-13 ~ 8.1 ~ Action ~ Biography ~ Drama ~
+Stand by Me ~ 1986 ~ R ~ 8.1 ~ Adventure ~ Drama ~
+The Terminator ~ 1984 ~ R ~ 8.1 ~ Action ~ Sci-Fi ~
+Rush ~ 2013 ~ R ~ 8.1 ~ Action ~ Biography ~ Drama ~
+Into the Wild ~ 2007 ~ R ~ 8.1 ~ Adventure ~ Biography ~ Drama ~
+Spotlight ~ 2015 ~ R ~ 8.1 ~ Biography ~ Crime ~ Drama ~
+Network ~ 1976 ~ R ~ 8.1 ~ Drama ~
+The Wizard of Oz ~ 1939 ~ G ~ 8.1 ~ Adventure ~ Family ~ Fantasy ~
+Logan ~ 2017 ~ R ~ 8.1 ~ Action ~ Drama ~ Sci-Fi ~
+Groundhog Day ~ 1993 ~ PG ~ 8.1 ~ Comedy ~ Drama ~ Fantasy ~
+Ratatouille ~ 2007 ~ G ~ 8.1 ~ Animation ~ Adventure ~ Comedy ~
+The Exorcist ~ 1973 ~ R ~ 8.1 ~ Horror ~
+Before Sunset ~ 2004 ~ R ~ 8.1 ~ Drama ~ Romance ~
+The Best Years of Our Lives ~ 1946 ~ Approved ~ 8.1 ~ Drama ~ Romance ~ War ~
+The Incredibles ~ 2004 ~ PG ~ 8.0 ~ Animation ~ Action ~ Adventure ~
+The Battle of Algiers ~ 1966 ~ Not Rated ~ 8.1 ~ War ~
+Rebecca ~ 1940 ~ Approved ~ 8.1 ~ Drama ~ Mystery ~
+To Be or Not to Be ~ 1942 ~ Passed ~ 8.2 ~ Romance ~ War ~
+The Grapes of Wrath ~ 1940 ~ Passed ~ 8.1 ~ Drama ~
+Cool Hand Luke ~ 1967 ~ GP ~ 8.1 ~ Crime ~ Drama ~
+Hachi: A Dog's Tale ~ 2009 ~ G ~ 8.1 ~ Biography ~ Drama ~ Family ~
+Amores perros ~ 2000 ~ R ~ 8.1 ~ Drama ~ Thriller ~
+Dersu Uzala ~ 1975 ~ G ~ 8.2 ~ Biography ~ Drama ~
+My Father and My Son ~ 2005 ~ Not Rated ~ 8.2 ~
+The 400 Blows ~ 1959 ~ Not Rated ~ 8.1 ~ Crime ~ Drama ~
+Persona ~ 1966 ~ Not Rated ~ 8.1 ~ Drama ~ Thriller ~
+Life of Brian ~ 1979 ~ R ~ 8.0 ~ Comedy ~
+La Haine ~ 1995 ~ Not Rated ~ 8.1 ~ Crime ~ Drama ~
+Pirates of the Caribbean: The Curse of the Black Pearl ~ 2003 ~ PG-13 ~ 8.0 ~ Action ~ Adventure ~ Fantasy ~
+It Happened One Night ~ 1934 ~ Passed ~ 8.1 ~ Comedy ~ Romance ~
+The Sound of Music ~ 1965 ~ G ~ 8.1 ~ Biography ~ Drama ~ Family ~
+The Handmaiden ~ 2016 ~ Not Rated ~ 8.1 ~ Drama ~ Romance ~ Thriller ~
+Gandhi ~ 1982 ~ PG ~ 8.1 ~ Biography ~ Drama ~
+Aladdin ~ 1992 ~ G ~ 8.0 ~ Animation ~ Adventure ~ Comedy ~
+The Help ~ 2011 ~ PG-13 ~ 8.1 ~ Drama ~
+Beauty and the Beast ~ 1991 ~ G ~ 8.0 ~ Animation ~ Family ~ Fantasy ~
+Rififi ~ 1955 ~ Not Rated ~ 8.1 ~ Drama ~ Thriller ~
+Dances with Wolves ~ 1990 ~ PG-13 ~ 8.0 ~ Adventure ~ Drama ~ Western ~
