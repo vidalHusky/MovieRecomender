@@ -42,7 +42,7 @@ while True:
 
     print()
     print('---------------------------------------------')
-    for option in acceptable_movies:
+    for option in acceptable_movies.values():
         print(option)
         print()
         choice = int(input('Would You Like A Different Option? Enter 1 for Yes and 0 for No\n'))
