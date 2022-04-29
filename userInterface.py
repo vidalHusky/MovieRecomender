@@ -1,6 +1,7 @@
 from infoScrubber import make_dic_of_movies, suggest_based_on_year, suggest_based_on_genre, suggest_based_on_rating
 
 
+acceptable_movies = None
 while True:
     print('GREETINGS MOVIE GOER! Welcome to Javier Vidal\'s Fabulous Movie Recommender!')
     print('THE AVAILABLE MOVIE GENRE TO SEARCH FOR ARE:\n'
