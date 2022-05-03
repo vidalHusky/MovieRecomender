@@ -1,4 +1,4 @@
-from infoScrubber import make_dic_of_movies, suggest_based_on_year, suggest_based_on_genre, suggest_based_on_rating
+from suggestMovie import MovieLibrary
 
 
 while True:
@@ -13,32 +13,43 @@ while True:
                  '6. 2005->2010\n7. 2010->2015\n8. 2015->Present\n9. If you don\'t care\n')
     rating = input('WHAT RATING WOULD YOU LIKE THE MOVIE TO HAVE?\n'
                    '1. G\n2. PG\n3. PG 13\n4. R\n6. Could Not Care Less\n')
-    acceptable_movies = suggest_based_on_genre(genre, make_dic_of_movies())
+    movieLibrary = MovieLibrary(genre)
+    
+    # Depending on user input changes constraints of the movieLibrary class to the desired year time frames
     if year == 1:
-        acceptable_movies = suggest_based_on_year([1900, 1950], acceptable_movies)
+        movieLibrary.change_year([1900, 1950])
     elif year == 2:
-        acceptable_movies = suggest_based_on_year([1950, 1975], acceptable_movies)
+        movieLibrary.change_year([1950, 1975])
     elif year == 3:
-        acceptable_movies = suggest_based_on_year([1975, 1990], acceptable_movies)
+        movieLibrary.change_year([1975, 1990])
     elif year == 4:
-        acceptable_movies = suggest_based_on_year([1990, 2000], acceptable_movies)
+        movieLibrary.change_year([1990, 2000])
     elif year == 5:
-        acceptable_movies = suggest_based_on_year([2000, 2005], acceptable_movies)
+        movieLibrary.change_year([2000, 2005])
     elif year == 6:
-        acceptable_movies = suggest_based_on_year([2005, 2010], acceptable_movies)
+        movieLibrary.change_year([2005, 2010])
     elif year == 7:
-        acceptable_movies = suggest_based_on_year([2010, 2015], acceptable_movies)
+        movieLibrary.change_year([2010, 2015])
     elif year == 8:
-        acceptable_movies = suggest_based_on_year([2015, 3000], acceptable_movies)
+        movieLibrary.change_year([2015, 3000])
 
+    # Depending on user input changes constraints of the movieLibrary class to the desired rating of movie
     if rating == 1:
-        acceptable_movies = suggest_based_on_rating('G', acceptable_movies)
+        movieLibrary.change_rating('G')
     elif rating == 2:
-        acceptable_movies = suggest_based_on_rating('PG', acceptable_movies)
+        movieLibrary.change_rating('PG')
     elif rating == 3:
-        acceptable_movies = suggest_based_on_rating('PG-13', acceptable_movies)
+        movieLibrary.change_rating('PG-13')
     elif rating == 4:
-        acceptable_movies = suggest_based_on_rating('R', acceptable_movies)
+        movieLibrary.change_rating('R')
+
+    # Does all the actual trimming of the dictionary to library of movies that is wanted by the user
+    movieLibrary.suggest_based_on_genre()
+    movieLibrary.suggest_based_on_year()
+    movieLibrary.suggest_based_on_rating()
+
+
+    # Display mechanism for the user
 
     print()
     print('---------------------------------------------')
